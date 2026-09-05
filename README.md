@@ -157,31 +157,29 @@ Management application focused on student records and CRUD workflows.
 
 ---
 
-<details>
-<summary><b>📈 Activity Graph</b></summary>
-<br/>
+## 🌊 Contribution Journey
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskarRaghuvanshi&theme=react-dark&bg_color=0f1720&color=00fff2&line=00fff2&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<div align="center">
 
-</details>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskarRaghuvanshi&bg_color=0f1720&color=00fff2&line=00fff2&point=7dd3fc&area_color=083344&area=true&hide_border=true&custom_title=Neon%20Ocean%20Contribution%20Journey" width="100%" alt="Neon Ocean GitHub Contribution Journey"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskarRaghuvanshi&bg_color=06131a&color=67e8f9&line=22d3ee&point=ffffff&area_color=164e63&area=true&hide_border=true&radius=12" width="100%" alt="Neon Ocean Activity Graph"/>
+
+</div>
+
+---
 
 <details>
 <summary><b>🏆 GitHub Trophies</b></summary>
 <br/>
 
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sanskarRaghuvanshi&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" alt="GitHub Trophies"/>
+</div>
 
 </details>
-
----
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
-
-</div>
 
 ---
 
