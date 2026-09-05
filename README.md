@@ -143,16 +143,6 @@ Management application focused on student records and CRUD workflows.
 
 ---
 
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sanskarRaghuvanshi&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" alt="GitHub Trophies"/>
-</div>
-</details>
-
----
-
 ## 🧭 Developer Journey
 
 ```text
