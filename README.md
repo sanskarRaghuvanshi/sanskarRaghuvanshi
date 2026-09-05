@@ -1,170 +1,218 @@
 <div align="center">
 
-# 👋 Hey, I'm Sanskar Raghuvanshi
-
-### 💻 Developer • Builder • Problem Solver
-
-**B.Tech Information Technology Student @ IPS Academy, Indore**
-
-I build real-world projects, explore backend & full-stack development,
-and I'm currently strengthening my **Data Structures & Algorithms** skills.
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1720,100:00fff2&height=220&section=header&text=Sanskar%20Raghuvanshi&fontSize=46&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=B.Tech%20IT%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://github.com/sanskarRaghuvanshi">
-  <img src="https://img.shields.io/badge/GitHub-sanskarRaghuvanshi-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Developer;Full-Stack+Developer;Backend+Explorer;DSA+Learner;Python+Developer;JavaScript+Developer;Rust+Explorer;Linux+Enthusiast;Problem+Solver&font=Fira+Code&center=true&width=720&height=48&color=00FFF2&vCenter=true&size=21&pause=1400&background=00000000" alt="Typing animation"/>
 </a>
-<a href="https://www.linkedin.com/in/sanskar-raghuvanshi-0401883a1/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sanskarRaghuvanshi&label=PROFILE+VIEWS&color=00fff2&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/sanskarRaghuvanshi?label=FOLLOWERS&style=for-the-badge&color=00fff2&labelColor=0f1720" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/sanskarRaghuvanshi?affiliations=OWNER&label=STARS&style=for-the-badge&color=00fff2&labelColor=0f1720" alt="Stars"/>
+
+<br/><br/>
+
+> *"Learn → Build → Break → Debug → Improve → Repeat."*
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **B.Tech Information Technology student at IPS Academy, Indore** with a strong interest in software development, backend systems, and problem solving.
+```yaml
+name: "Sanskar Raghuvanshi"
+location: "Indore, India 🇮🇳"
+education: "B.Tech in Information Technology"
+college: "IPS Academy, Rajendra Nagar, Indore"
+graduation: "2028"
 
-I learn by building: creating projects, debugging real problems, collaborating through GitHub, and continuously improving the code I write.
+current_focus:
+  - "Data Structures & Algorithms"
+  - "Backend Development"
+  - "Full-Stack Development"
+  - "REST APIs"
+  - "Databases"
+  - "Operating Systems"
+  - "Linux / Ubuntu"
+  - "Rust"
 
-- 🎓 B.Tech — Information Technology
-- 🏫 IPS Academy, Rajendra Nagar, Indore
-- 📅 2024 — 2028
-- 💻 Backend & Full-Stack Development
-- 🧠 Data Structures & Algorithms
-- 🦀 Exploring Rust
-- 🤝 Git, GitHub, branches & pull requests
-- 🖥️ Windows + Ubuntu/Linux
+interests:
+  - "Software Development"
+  - "Problem Solving"
+  - "Backend Engineering"
+  - "Open Source"
+  - "Developer Tools"
+  - "System Fundamentals"
 
----
-
-## 🎯 Current Focus
-
-```text
-🧠 Data Structures & Algorithms
-☕ Advanced Java & problem solving
-💻 Backend & Full-Stack Development
-🔌 REST APIs & developer tooling
-🗄️ Databases
-🦀 Rust exploration
-🖥️ Operating Systems & Linux
-🚀 Building production-minded projects
+learning_philosophy: "Build real projects and learn from real problems."
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,rust&perline=5" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,rust&perline=5" alt="Programming Languages"/>
 </p>
 
 `Java` · `Python` · `JavaScript` · `HTML` · `SQL` · `Rust`
 
-### Backend & Databases
+### ⚙️ Backend, Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode&perline=6" alt="Backend and tools"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode&perline=7" alt="Backend and tools"/>
 </p>
 
 `Node.js` · `Express` · `MongoDB` · `SQL` · `REST APIs` · `Git` · `GitHub`
 
-### Operating Systems
+### 🖥️ Operating Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux&perline=3" alt="Operating systems"/>
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux&perline=3" alt="Operating Systems"/>
 </p>
 
-**Windows** · **Ubuntu** · **Linux**
+`Windows` · `Ubuntu` · `Linux`
 
-**OS concepts:** Processes · Threads · CPU Scheduling · Memory Management · File Systems
+**OS Fundamentals:** Processes · Threads · CPU Scheduling · Memory Management · File Systems
 
 ---
 
-## 📊 GitHub Dashboard
+## 🚀 What I'm Building
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskarRaghuvanshi&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarRaghuvanshi&layout=compact&langs_count=8&hide_border=true" height="180" alt="Top Languages"/>
+
+| 🧠 Learning | 💻 Building | 🔧 Improving |
+|:---:|:---:|:---:|
+| DSA & Java | Full-Stack Apps | Debugging & Architecture |
+| OS & Linux | Backend APIs | Git & Collaboration |
+| Rust | Developer Tools | UI/UX |
+
 </div>
+
+---
+
+## 🌟 Featured Projects
+
+### 🎓 Attendance Management System
+
+Full-stack academic attendance platform with student/faculty workflows, administrator features, defaulter management, branch/year filtering, and ongoing UI/UX improvements.
+
+**Focus:** `JavaScript` · `Backend` · `Database` · `UI/UX`
+
+🔗 [View Repository](https://github.com/sanskarRaghuvanshi/minor-project)
+
+### 🛒 Main Full-Stack Project
+
+Larger full-stack application involving authentication, MongoDB, OAuth/Passport, order management, returns, product comparison, and order tracking.
+
+**Focus:** `Backend` · `MongoDB` · `Authentication` · `REST APIs`
+
+🔗 [View Repository](https://github.com/sanskarRaghuvanshi/main-project)
+
+### 🔌 ReqX
+
+CLI-oriented API testing tool built around test cases and developer-friendly API workflows.
+
+**Focus:** `CLI` · `APIs` · `Testing` · `Developer Tools`
+
+🔗 [View Repository](https://github.com/sanskarRaghuvanshi/reqx)
+
+### 🦀 Rust Guessing Game
+
+A small project built while exploring Rust fundamentals and getting comfortable with the language.
+
+🔗 [View Repository](https://github.com/sanskarRaghuvanshi/rust-guessing-game)
+
+### 📚 Library Management System
+
+Application focused on library operations and student/book management.
+
+🔗 [View Repository](https://github.com/sanskarRaghuvanshi/libary-management-system-)
+
+### 👨‍🎓 Student Management System
+
+Management application focused on student records and CRUD workflows.
+
+🔗 [View Repository](https://github.com/sanskarRaghuvanshi/student-management-system)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sanskarRaghuvanshi&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarRaghuvanshi&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="180" alt="Top Languages"/>
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sanskarRaghuvanshi&hide_border=true" width="60%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=sanskarRaghuvanshi&hide_border=true&theme=transparent" width="60%" alt="GitHub Streak"/>
+
 </div>
+
+---
+
+<details>
+<summary><b>📈 Activity Graph</b></summary>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskarRaghuvanshi&theme=react-dark&bg_color=0f1720&color=00fff2&line=00fff2&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+
+</details>
+
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sanskarRaghuvanshi&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%" alt="GitHub Trophies"/>
+
+</details>
 
 ---
 
 ## 🐍 Contribution Journey
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎓 Attendance Management System
-
-A full-stack project focused on attendance management and academic workflows.
-
-**Highlights:** admin/defaulter management, branch & year filters, student attendance, faculty workflows, and UI/UX improvements.
-
-🔗 [View Repository](https://github.com/sanskarRaghuvanshi/minor-project)
-
-### 🛒 Main Full-Stack Project
-
-A larger full-stack application involving authentication, MongoDB, OAuth/Passport, order management, returns, product comparison, and order tracking.
-
-🔗 [View Repository](https://github.com/sanskarRaghuvanshi/main-project)
-
-### 🔌 ReqX
-
-A CLI-oriented API testing tool built around test cases and developer-friendly API workflows.
-
-🔗 [View Repository](https://github.com/sanskarRaghuvanshi/reqx)
-
-### 🦀 Rust Guessing Game
-
-A small Rust project created while exploring Rust fundamentals and building comfort with the language.
-
-🔗 [View Repository](https://github.com/sanskarRaghuvanshi/rust-guessing-game)
-
-### 📚 Library Management System
-
-A project centered on library operations, student/book management, and application logic.
-
-🔗 [View Repository](https://github.com/sanskarRaghuvanshi/libary-management-system-)
-
-### 👨‍🎓 Student Management System
-
-A management application focused on student records and CRUD-oriented workflows.
-
-🔗 [View Repository](https://github.com/sanskarRaghuvanshi/student-management-system)
-
----
-
-## 🧭 My Developer Journey
+## 🧭 Developer Journey
 
 ```text
-Java & Core Programming
-          ↓
-Backend Development & APIs
-          ↓
-Full-Stack Project Building
-          ↓
-Git + GitHub Collaboration
-          ↓
-DSA + Problem Solving
-          ↓
-Rust + Systems Exploration
-          ↓
-Production-minded Development
+        ☕ JAVA / CORE PROGRAMMING
+                    │
+                    ▼
+           🌐 WEB DEVELOPMENT
+                    │
+                    ▼
+          🔌 BACKEND & REST APIs
+                    │
+                    ▼
+             🗄️ DATABASES
+                    │
+                    ▼
+         🚀 FULL-STACK PROJECTS
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+     🧠 DSA & DSA          🐧 LINUX / OS
+          │                   │
+          └─────────┬─────────┘
+                    ▼
+                 🦀 RUST
+                    │
+                    ▼
+          💡 PRODUCTION-MINDED
+              DEVELOPMENT
 ```
 
 ---
@@ -174,7 +222,7 @@ Production-minded Development
 ### IPS Academy, Rajendra Nagar, Indore
 
 **Bachelor of Technology — Information Technology**  
-`2024 — 2028`
+`Jan 2024 — Dec 2028`
 
 ### Kendriya Vidyalaya
 
@@ -184,47 +232,58 @@ School Education
 
 ## 🎯 2026 Goals
 
-- [ ] 🧠 Get strong at Data Structures & Algorithms
-- [ ] ☕ Become highly comfortable with Java for DSA
-- [ ] 🚀 Build more production-quality projects
-- [ ] 🌐 Improve full-stack development
-- [ ] 🦀 Go deeper into Rust
-- [ ] 🐧 Strengthen Linux/Ubuntu skills
+- [ ] 🧠 Master DSA fundamentals and problem solving
+- [ ] ☕ Strengthen Java for DSA & backend development
+- [ ] 🚀 Build production-quality full-stack projects
+- [ ] 🐧 Become stronger with Linux/Ubuntu
+- [ ] 🖥️ Deepen Operating Systems knowledge
+- [ ] 🦀 Explore Rust more deeply
 - [ ] 🤝 Contribute to open source
-- [ ] 📈 Stay consistent on GitHub
+- [ ] 📈 Maintain consistent GitHub activity
 
 ---
 
-## 💡 Developer Philosophy
+## 💻 Terminal
 
-> **Learn → Build → Break → Debug → Improve → Repeat**
+```bash
+sanskar@ubuntu:~$ whoami
+Sanskar Raghuvanshi
 
-I believe the fastest way to grow as a developer is to build things,
-face real problems, understand the reason behind them, and keep improving.
+sanskar@ubuntu:~$ neofetch --minimal
+OS: Ubuntu / Windows
+Editor: VS Code
+Languages: Java, Python, JavaScript, SQL, Rust
+Focus: DSA, Backend, Full-Stack, OS
+
+sanskar@ubuntu:~$ echo "status"
+> Learning. Building. Debugging. Improving.
+```
 
 ---
 
-## 🤝 Connect With Me
+## ⚡ GitHub Activity
+
+I use GitHub as a place to **build, experiment, collaborate, and improve**.
+
+`Repositories` · `Commits` · `Branches` · `Pull Requests` · `Projects` · `Open Source`
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/sanskarRaghuvanshi">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-0f1720?style=for-the-badge&logo=github&logoColor=00fff2" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/sanskar-raghuvanshi-0401883a1/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0f1720?style=for-the-badge&logo=linkedin&logoColor=00fff2" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff2,100:0f1720&height=100&section=footer" width="100%" alt="Footer"/>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanskarRaghuvanshi&style=flat-square" alt="Profile Views"/>
-  <br/>
-  <sub>Built with curiosity, code & lots of debugging ☕</sub>
 </div>
